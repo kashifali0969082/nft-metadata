@@ -1,5 +1,6 @@
 {
-  "name": "test coolection",
-  "description": "this is a test collection for demonstration purposes.",
-  "image": "https://picsum.photos/200/300"
+  "name": "Abrar",
+  "symbol": "ABR",
+  "description": "This is my custom token built with Anchor on Solana.",
+  "image": "https://vjvazuzcbkvwqdfpjdvd.supabase.co/storage/v1/object/public/portfolio-images/rarrararar.jpeg"
 }
